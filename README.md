@@ -19,3 +19,9 @@ Program has 9 functions.
 7. function: Calculates the maximum value of the uploaded data or a new array can be generated.
 8. function: Calculates the minimum value of the uploaded data or a new array can be generated.
 9. function: Normal or scattered plot is drawned by using random dataset or a new array can be generated.
+
+Requirements:
+    import os
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import random
