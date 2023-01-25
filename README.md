@@ -1,6 +1,6 @@
 # PythonProject/1716401/MelisAltınöz
 Welcome to MelCulator! 
-Description: In that program you can find the mean values, varience and min-max values of your datasets and draw a plot. You can enter your own dataset or you can choose a file. Also you can make unit conversion.
+Description: In that program you can find the mean values, variance and min-max values of your datasets and draw a plot. You can enter your own dataset or you can choose a file. Also you can make unit conversion.
 
 How to Run:
 Program has 9 functions. 
